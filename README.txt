@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmagikmw%2Fwarden.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmagikmw%2Fwarden?ref=badge_shield)
+
  Warden
  by Michał Walczak
 
@@ -64,3 +66,7 @@
  Creators of libTCOD             -   for a cool library
  Jotaf                           -   for his great tutorial on roguebasin.com
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmagikmw%2Fwarden.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmagikmw%2Fwarden?ref=badge_large)
